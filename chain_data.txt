@@ -1,0 +1,24 @@
+---------------Block: 1---------------
+Previous Hash: 
+Transactions: []
+Proof of Work: 1007
+Timestamp: 1
+Hash_Satisfying_Proof: 00b841130847eccc49ceea46e46ad21167541a82ea6790c3279286115417f95d
+---------------Block: 2---------------
+Previous Hash: 61fdd0a5543c8a2bf903dd3d549db7ed8b818e4674d69f3c62de9e5dc509fce6
+Transactions: [{'sender': 'SYSTEM', 'recipient': 'Zaid', 'amount': 10}]
+Proof of Work: 14345
+Timestamp: 1619866079.615278
+Hash_Satisfying_Proof: 00b841130847eccc49ceea46e46ad21167541a82ea6790c3279286115417f95d
+---------------Block: 3---------------
+Previous Hash: ce95be411b320a9a72cedae2a0cf8d1c37c9ac8ea92b2defe9e83b035a3e8c36
+Transactions: [{'sender': 'Zaid', 'recipient': 'mohit', 'amount': 3.0}, {'sender': 'SYSTEM', 'recipient': 'Zaid', 'amount': 10}]
+Proof of Work: 4360
+Timestamp: 1619866079.61528
+Hash_Satisfying_Proof: 00b841130847eccc49ceea46e46ad21167541a82ea6790c3279286115417f95d
+---------------Block: 4---------------
+Previous Hash: d948deea09b4683a55b0008318577991fe7ea6a953118d2386a52df4846755df
+Transactions: [{'sender': 'Zaid', 'recipient': 'a', 'amount': 3.0}, {'sender': 'SYSTEM', 'recipient': 'Zaid', 'amount': 10}]
+Proof of Work: 6396
+Timestamp: 1619866276.198712
+Hash_Satisfying_Proof: 00b841130847eccc49ceea46e46ad21167541a82ea6790c3279286115417f95d
